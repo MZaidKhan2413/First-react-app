@@ -1,6 +1,8 @@
+import './Title.css'
+
 function Title() {
     return (
-        <h1>This is a title</h1>
+        <h1 className='title'>This is a title</h1>
     );
 };
 

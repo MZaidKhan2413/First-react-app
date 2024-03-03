@@ -1,0 +1,12 @@
+.card {
+    border: 2px solid #FFFFFF;
+    border-radius: .6rem;
+    padding: 1rem;
+    width: 20rem;
+    background-color: #5c646d;
+    transition: all ease .25s;
+}
+
+.card:hover {
+    filter: drop-shadow(0 0 .5em #c5d7ea);
+}

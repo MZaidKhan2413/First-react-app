@@ -1,3 +1,4 @@
+import "./Card.css"
 import Title from "./Title.jsx"
 import Description from "./Description.jsx"
 
