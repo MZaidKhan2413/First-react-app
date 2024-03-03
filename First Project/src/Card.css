@@ -2,9 +2,10 @@
     border: 2px solid #FFFFFF;
     border-radius: .6rem;
     padding: 1rem;
-    width: 20rem;
+    width: 17rem;
     background-color: #5c646d;
     transition: all ease .25s;
+    margin: .5rem;
 }
 
 .card:hover {
